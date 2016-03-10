@@ -1,3 +1,6 @@
+##THIS PROJECT IS CURRENTLY UNDER HEAVY MAINTENCE AND WILL RETURN SHORTLY
+#Feel free to check the git history for an older version :)
+
 WebApp Jukebox Interface for Linux-based Systems
 
 Setup:
@@ -7,4 +10,6 @@ Run 'git clone https://github.com/mynameistony/jukebox-ng.git' to create a local
 Configure apache to host the folder containing my code...
 Run installation scripts...these have yet to be completed
 
+##THIS PROJECT IS CURRENTLY UNDER HEAVY MAINTENCE AND WILL RETURN SHORTLY
+#Feel free to check the git history for an older version :)
 
